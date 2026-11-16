@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on Power BI sales analytics dashboards and a Python Won/Lost opportunity prediction model (proof of concept)<br>👯 I'm looking to collaborate on BI dashboards, SQL and Python analytics projects, and AI-assisted reporting<br>🤝 I'm looking for help with Snowflake, Databricks and PySpark for data engineering work<br>🌱 I'm currently learning Microsoft Fabric, PySpark, Snowflake, Databricks and Azure<br>💬 Ask me about Power BI, DAX, SQL, Salesforce and Dynamics 365 reporting, sales ops analytics, and Copilot Studio
+🔭 I'm currently building a portfolio of Power BI dashboards, Python data-audit and EDA tools, forecasting models and Excel trackers, all on public or synthetic data (see my pinned repos)
+👯 I'm looking to collaborate on BI dashboards, SQL and Python analytics, and AI-assisted reporting projects
+🤝 I'm looking for feedback on my DAX, data models and dashboard design, and for help with PySpark and Databricks
+🌱 I'm currently learning PySpark, Snowflake and Databricks, building on my Power BI and Microsoft Fabric work
+💬 Ask me about Power BI and DAX, SQL, Salesforce and Dynamics 365 reporting, sales and revenue analytics (MRR, ARR, churn, pipeline), and Copilot Studio agents
 
 
 ## 🌐 Socials:
