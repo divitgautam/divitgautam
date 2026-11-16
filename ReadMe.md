@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently building a portfolio of Power BI dashboards, Python data-audit and EDA tools, forecasting models and Excel trackers, all on public or synthetic data (see my pinned repos) 👯 I'm looking to collaborate on BI dashboards, SQL and Python analytics, and AI-assisted reporting projects 🤝 I'm looking for feedback on my DAX, data models and dashboard design, and for help with PySpark and Databricks 🌱 I'm currently learning PySpark, Snowflake and Databricks, building on my Power BI and Microsoft Fabric work 💬 Ask me about Power BI and DAX, SQL, Salesforce and Dynamics 365 reporting, sales and revenue analytics (MRR, ARR, churn, pipeline), and Copilot Studio agents
+🔭 I'm currently building a portfolio of Power BI dashboards, Python data-audit and EDA tools, forecasting models and Excel trackers, all on public or synthetic data (see my pinned repos) 
+👯 I'm looking to collaborate on BI dashboards, SQL and Python analytics, and AI-assisted reporting projects 
+🤝 I'm looking for feedback on my DAX, data models and dashboard design, and for help with PySpark and Databricks 
+🌱 I'm currently learning PySpark, Snowflake and Databricks, building on my Power BI and Microsoft Fabric work 
+💬 Ask me about Power BI and DAX, SQL, Salesforce and Dynamics 365 reporting, sales and revenue analytics (MRR, ARR, churn, pipeline), and Copilot Studio agents
 
 
 ## 🌐 Socials:
